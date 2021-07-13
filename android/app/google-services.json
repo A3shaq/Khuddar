@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "283360726281",
+    "project_id": "khudar-bb0c7",
+    "storage_bucket": "khudar-bb0c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283360726281:android:2c9179740231a4cdfe17d8",
+        "android_client_info": {
+          "package_name": "com.khudar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283360726281-rr51fmdog7oak15nn43khqtgvefo9qf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khudar",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "283360726281-kaggrce8jg6mlnohgh3fmqav5a1679d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs_b8uRL5H_dXKY7jRdD1PEtTOSgpewgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283360726281-kaggrce8jg6mlnohgh3fmqav5a1679d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
